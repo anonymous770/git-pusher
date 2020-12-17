@@ -1,1 +1,1 @@
-python .commit_push.py
+python3 .commit_push.py
